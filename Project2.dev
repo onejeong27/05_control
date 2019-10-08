@@ -1,6 +1,6 @@
 [Project]
 FileName=Project2.dev
-Name=Project2
+Name=Project1
 Type=1
 Ver=2
 ObjFiles=
@@ -27,7 +27,7 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
+CompilerSet=1
 CompilerSettings=0000000000000000001000000
 UnitCount=1
 
